@@ -1,0 +1,123 @@
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: MAURICIO
+    last_name: GONZALEZ
+    
+    # Define yourself in 4-5 words
+    motto: detallista, hacer el bien, buena persona, perfeccionista, duditativo 
+    
+    # Focus
+    focus: Killing Bad Boys
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+    summary: |
+      Trabaje 5 años en ibm como QA tester Ssr, cambie a una empresa de publicidad a trabajar con fronted y aprender un poco de backend con una empresa tercerizada. Trate de estudiar pero nunca pude completar estudios.
+      
+      Second paragraph if required.
+    
+    # Your profile picture URL
+    
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/women/24.jpg
+
+    # Contact Information
+    email: gonmauri89@gmail.com #optional
+    phone: +34 604 397850 #optional
+    website: asd.com #optional
+    linkedin: https://es.linkedin.com/in/mauri--gonzalez #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: https://github.com/maurigon89
+    
+    twitter: 'webjeda' #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: English
+        level: b3
+
+      - idiom: italin
+        level: Professional
+
+      - idiom: Spanish
+        level: native
+
+    # Interests or hobbies
+    interests:
+      - item: futbol
+
+      - item: Snowboarding
+
+      - item: Cooking
+
+# Your previous education
+education:
+    - degree: desarrollo web y mobile
+      university: universidad davinci, buenos aires
+      # optional
+      university_logo: https://davinci.edu.ar/
+      time: 2011 - 2012
+      details: |
+      Aprendé técnicas para la creación de Páginas Web RESS (Responsive + Server Side Components), y Aplicaciones Móviles (Progressive Web Apps), que te permitirán convertirte en un Desarrollador Web y Mobile experto, capaz de desarrollar front y backend (Full Stack Developer) de páginas atractivas, modernas y funcionales
+
+          - Bullet point
+          - Bullet point
+
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      # optional
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2007 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+# Your previous job experiences or volunteer
+experiences:
+    - role: QA Analist Tester 
+      time: 2007 - 2019
+      company:  Loyal Solutions, Equifax VERAZ, IBM.
+      # optional
+      details: |
+       Realizacion de casos de pruebas, preparacion de ambientes, analisis de casos, evaluaciones de posibles problemas, estimaciones de proyectos, administracion y documentaciones de proyectos, capacitaciones, black / white / green test cases, test de regresesion, casos de pruebas automatizados, etc.
+
+    - role: Frontend developer junior
+      time: 2020 - 2022
+      company: Wiperagency, Buenos Aires
+      # optional
+      details: |
+        mantenimientos de sitios frontend, reutilizacion de codigos para futuros nuevos sitios, creaciones de ambientes tanto en servidores de clientes como en propios, configuracion de servidores para tipo de tecnologias en sitios.
+
+
+
+skills:
+    toolset:
+      - name: html5 & css3
+        level: 70%
+
+      - name: JavaScript & jQuery
+        level: 20%
+
+      - name: React
+        level: 30%%
+
+      - name: Testing & tool testing & automation & analist
+        level: 95%
+
+      - name: Photoshop
+        level: 50%
